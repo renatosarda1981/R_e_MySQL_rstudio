@@ -16,3 +16,4 @@ head(dados)
 class(dados)
 ggplot(dados, aes(pclass, media_idade)) + geom_bar(stat = 'identity')
 
+ffff
